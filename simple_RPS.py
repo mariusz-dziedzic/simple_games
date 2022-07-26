@@ -42,7 +42,7 @@ if accept in confirmation:
             print("_"*42)
             print()
             print(f"ROUND {game} ---------- {name} ({point_my}:{point_pc}) AI")
-            x = input("Podaj cyfrę 1-3: ")
+            x = input("Enter the number 1-3: ")
             time.sleep(0.3)
             pc = (random.choice(options))
             if x == "1":
