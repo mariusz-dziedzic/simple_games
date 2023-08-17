@@ -1,3 +1,6 @@
+Just run the exe file or Python file
+
+
 The folder contains two simple games that I created at the beginning of my Python education.
 
 - The first game is the classic Paper, Rock and Scissors game in which we specify how many points we want to play
